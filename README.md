@@ -1,5 +1,4 @@
-#React Clipboard with Additional Text
-#React 剪貼簿與附加文字功能
+# React Clipboard with Additional Text | 剪貼簿與附加文字功能
 
 Sharing information on the internet is a common practice, but sometimes we may encounter a problem where our content is easily copied or reposted. In this case, we need some protection. For example, we want people who copy our content to add source and copyright information, so that we can protect our intellectual property.
 
@@ -59,9 +58,7 @@ Read more at https://woodychau.hk © 2023 Woody Chau
 
 --
 
-#How to Use
-#如何使用
-
+# How to Use | 如何使用
 
 Installing Node.js and npm
 To use the code, you need to have Node.js and npm installed on your computer. If you haven't already, you can install them by following these steps:
