@@ -2,6 +2,10 @@
 
 在 React 中，我們可以使用一個自定義的 Hook，讓我們可以很方便地在網頁中實現複製內容到剪貼簿並加上額外文字的功能。
 
+Sharing information on the internet is a common practice, but sometimes we may encounter a problem where our content is easily copied or reposted. In this case, we need some protection. For example, we want people who copy our content to add source and copyright information, so that we can protect our intellectual property.
+
+In React, we can use a custom Hook to easily implement the functionality of copying content to the clipboard and adding extra text in the web page.
+
 ```
 import React, { useEffect } from 'react';
 
@@ -27,6 +31,7 @@ const CopyWithStatement = ({ statement, children }) => {
 export default CopyWithStatement;
 ```
 只需要將需要複製的內容作為子組件傳遞給 CopyWithStatement，並在 statement 中傳遞額外的文字即可。
+Simply pass the content to be copied as a child component to CopyWithStatement, and pass the additional text in statement.
 
 ```
 import React from 'react'
@@ -43,4 +48,4 @@ function App() {
 export default App
 ```
 
-開源代碼: [Github](https://github.com/WoodyChau/react-clipboard-with-additional-text)
+Read more at https://woodychau.hk © 2023 Woody Chau
