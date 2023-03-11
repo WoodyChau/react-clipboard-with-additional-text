@@ -51,3 +51,29 @@ export default App
 ```
 
 Read more at https://woodychau.hk © 2023 Woody Chau
+
+
+
+--
+
+
+
+Installing Node.js and npm
+To use the code, you need to have Node.js and npm installed on your computer. If you haven't already, you can install them by following these steps:
+
+Download and install the latest version of Node.js from the official website: https://nodejs.org/en/.
+Installing Dependencies
+Once you have installed Node.js, open your terminal or command prompt, navigate to the project folder, and run the following command to install the required dependencies:
+
+sh
+Copy code
+npm i
+This command will install the dependencies listed in the package.json file.
+
+Starting the Development Server
+After installing the dependencies, you can start the development server by running the following command:
+
+sh
+Copy code
+npm start
+This will start the development server and open the project in your default browser. You can make changes to the code and the server will automatically reload the page with the updated content.
