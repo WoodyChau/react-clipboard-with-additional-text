@@ -4,7 +4,7 @@ Sharing information on the internet is a common practice, but sometimes we may e
 
 In React, we can use a custom Hook to easily implement the functionality of copying content to the clipboard and adding extra text in the web page.
 
-在網路上分享資訊是習以為常的行為，不過有時候我們可能會遇到一個問題，我們的內容很容易被人抄襲或者轉載，這時候我們就需要一些保障。例如，我們希望在抄襲我們內容的人複製時能夠加上出處和版權信息，這樣就可以保護我們的知識產權。
+在網路上分享資訊是習以為常的行為，不過有時候我們可能會遇到一個問題，我們的內容很容易被人轉載，這時候我們就需要一些保障。例如，我們希望在轉載我們內容的人複製時能夠加上出處和版權信息，這樣就可以保護我們的知識產權。
 
 在 React 中，我們可以使用一個自定義的 Hook，讓我們可以很方便地在網頁中實現複製內容到剪貼簿並加上額外文字的功能。
 
