@@ -1,3 +1,6 @@
+#React Clipboard with Additional Text
+#React 剪貼簿與附加文字功能
+
 Sharing information on the internet is a common practice, but sometimes we may encounter a problem where our content is easily copied or reposted. In this case, we need some protection. For example, we want people who copy our content to add source and copyright information, so that we can protect our intellectual property.
 
 In React, we can use a custom Hook to easily implement the functionality of copying content to the clipboard and adding extra text in the web page.
@@ -56,6 +59,8 @@ Read more at https://woodychau.hk © 2023 Woody Chau
 
 --
 
+#How to Use
+#如何使用
 
 
 Installing Node.js and npm
